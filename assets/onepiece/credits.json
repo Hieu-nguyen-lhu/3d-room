@@ -1,0 +1,21 @@
+[
+  {
+    "file": "luffy-battle.glb",
+    "author": "weijie1988 (https://sketchfab.com/weijie1988)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/monkey-d-luffy-3381f315bbcc47879f6498ad703ad2d0",
+    "title": "Monkey D Luffy",
+    "modifications": "Geometry welded and simplified for an in-room miniature; original texture retained.",
+    "distribution": "https://huggingface.co/datasets/allenai/objaverse",
+    "changes": "Geometry simplified, normals regenerated, original texture retained, rotated and scaled for vitrine."
+  },
+  {
+    "file": "devilfruit.glb",
+    "author": "Wendell.doc (https://sketchfab.com/Wendelldoc)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/devil-fruit-from-onepiece-4fa50ef32813456fbef1672526832427",
+    "title": "Devil Fruit from ONEPIECE",
+    "distribution": "https://huggingface.co/datasets/allenai/objaverse",
+    "changes": "Scaled for display; source lights removed at runtime."
+  }
+]

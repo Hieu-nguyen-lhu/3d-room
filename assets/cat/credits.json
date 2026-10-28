@@ -1,0 +1,8 @@
+{
+  "author": "Nyilonelycompany (https://sketchfab.com/Nyilonelycompany)",
+  "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+  "source": "https://sketchfab.com/3d-models/munchkin-cat-58873374a64d482ca1ad7130c2f7e586",
+  "title": "Munchkin Cat",
+  "providedBy": "User-provided Sketchfab GLB",
+  "changes": "Scaled for the room; the embedded morph animation is retained; a subtle procedural paw gait is added because the mesh has no leg rig; floor navigation moves the cat around the room."
+}

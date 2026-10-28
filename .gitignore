@@ -1,0 +1,30 @@
+# Dependencies & cache
+node_modules/
+.npm-cache/
+
+# Intermediate & backup files
+Hieu.zip
+Hieu/base.glb
+Hieu/base_basic_shaded.glb
+assets/cat/cat.glb
+assets/onepiece/luffy-sculpt.glb
+assets/onepiece/luffy.glb
+assets/onepiece/object-paths.json.gz
+assets/onepiece/matched-paths.json
+
+# Screenshots & preview images
+*.png
+
+# Local test & utility scripts
+check-*.mjs
+check-*.cjs
+verify-*.cjs
+fetch-*.cjs
+inspect-*.cjs
+optimize-*.mjs
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

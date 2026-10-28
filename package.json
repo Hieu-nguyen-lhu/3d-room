@@ -1,0 +1,22 @@
+{
+  "name": "3d-room",
+  "version": "1.0.0",
+  "description": "Phòng livestream 3D của Hieu với RGB 7 màu và model GLB cá nhân",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.cjs",
+    "check": "node verify-studio.cjs",
+    "check:cat": "node check-cat-navigation.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@gltf-transform/core": "^4.5.1",
+    "@gltf-transform/functions": "^4.5.1",
+    "meshoptimizer": "^1.3.0",
+    "playwright": "^1.56.1",
+    "three": "^0.180.0"
+  }
+}
